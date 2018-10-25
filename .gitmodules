@@ -1,0 +1,18 @@
+[submodule "back-end/M2EBorked"]
+	path = back-end/M2EBorked
+	url = https://github.com/InnovAnon-Inc/M2EBorked.git
+[submodule "back-end/AlphaTech"]
+	path = back-end/AlphaTech
+	url = https://github.com/InnovAnon-Inc/AlphaTech.git
+[submodule "back-end/PP"]
+	path = back-end/PP
+	url = https://github.com/InnovAnon-Inc/PP.git
+[submodule "front-end/LHP"]
+	path = front-end/LHP
+	url = https://github.com/InnovAnon-Inc/LHP.git
+[submodule "front-end/PP.old"]
+	path = front-end/PP.old
+	url = https://github.com/InnovAnon-Inc/PP.old.git
+[submodule "front-end/Structs.old"]
+	path = front-end/Structs.old
+	url = https://github.com/InnovAnon-Inc/Structs.old.git
